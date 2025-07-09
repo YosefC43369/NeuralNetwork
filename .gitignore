@@ -1,0 +1,65 @@
+# Compiled binaries
+*.exe
+*.out
+*.app
+neural_network
+
+# Object files
+*.o
+*.obj
+obj/
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Static library files
+*.lib
+*.a
+
+# Shared library files
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Core dumps
+core
+core.*
+
+# Editor files
+.vscode/
+.vs/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.cbp
+*.layout
+*.depend
+*.workspace
+*.vcxproj*
+*.sln
+*.suo
+
+# Build directories
+build/
+dist/
+cmake-build-*/
+
+# Network save files
+*.txt
+*.dat
+*.model
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
